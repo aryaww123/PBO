@@ -9,20 +9,20 @@
 
 ### UCD
 
-[UCD](uml/use-case-diagram.jpg)
+![UCD](uml/use-case-diagram.jpg)
 
 ### Activity Diagram
 
-[Activity](uml/activity-diagram.jpg)
+![Activity](uml/activity-diagram.jpg)
 
 ### Sequence Diagram
 
-[Sequence-add-user](uml/sequence-diagram-add-user.jpg)
+![Sequence-add-user](uml/sequence-diagram-add-user.jpg)
 
-[Sequence-send&receive](uml/sequence-diagram-send&receive.jpg)
+![Sequence-send&receive](uml/sequence-diagram-send&receive.jpg)
 
-[Sequence-send-emoji](uml/sequence-diagram-send-emoji.jpg)
+![Sequence-send-emoji](uml/sequence-diagram-send-emoji.jpg)
 
 ### Class Diagram
 
-[Class](uml/class-diagram.jpg)
+![Class](uml/class-diagram.jpg)
