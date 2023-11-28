@@ -1,9 +1,9 @@
 # Chat Application
 ## Anggota Kelompok
-1. Dionda Pratama ()
-2. Syiffa Dea R ()
-3. Fia Wahyu S ()
-4. Arya Wahyu W ()
+1. Dionda Pratama (5302422001)
+2. Fia Wahyu Sekarningtyas (5302422018)
+3. Arya Wahyu Wibowo (5302422019)
+4. Syiffa Dea Rizkiansyah (5302422025)
 
 ## Diagram
 
